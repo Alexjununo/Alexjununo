@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Junior</h1>
 <!-- <h3 align="center">I've been a Full Stack NodeJs developer and I'm passionate about the Javascript stack, I joined the community to learn technologies and libraries from this stack and also to be able to use the most used technologies on the market, I'm always willing to learn and teach as much as possible</h3> -->
 
-- 🌱 I’m currently learning **Docker, Java, TDD, DDD**
+- 🌱 I’m currently learning **Docker, NestJS, TDD, DDD**
 
 - 💬 Ask me about **NodeJS, Express**
 
